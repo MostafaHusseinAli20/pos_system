@@ -1,0 +1,23 @@
+.badge-success {
+    background-color: green !important;
+}
+
+.dot-label {
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.dot-labelDanger {
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin-right: 5px;
+}
