@@ -25,10 +25,10 @@ Accessible from desktops, tablets, and mobile devices for flexible sales managem
 🚀 Wait for the next updates.
 
 ## Screenshots 📷
-![Alt text](public/screenshots/1.png)
-![Alt text](public/screenshots/2.png)
-![Alt text](public/screenshots/3.png)
-![Alt text](public/screenshots/4.png)
-![Alt text](public/screenshots/5.png)
-![Alt text](public/screenshots/6.png)
+![Alt text](public/1.png)
+![Alt text](public/2.png)
+![Alt text](public/3.png)
+![Alt text](public/4.png)
+![Alt text](public/5.png)
+![Alt text](public/6.png)
 
